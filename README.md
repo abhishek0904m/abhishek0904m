@@ -121,6 +121,17 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abhishek0904m&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<br/>
+
+<h3 align="center">📈 Contribution Activity 📈</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek0904m&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek0904m&theme=github_dark" width="100%"/>
+</div>
+
 <br/><br/>
 
 <hr/>
