@@ -19,10 +19,10 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:abhishek0904m@gmail.com">
+  <a href="mailto:abhishekm0904@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/abhishek0904m" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-m-b60803345/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/abhishek0904m" target="_blank">
