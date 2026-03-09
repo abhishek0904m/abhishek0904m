@@ -88,7 +88,7 @@
 
 ---
 
-### 🛒 E-Commerce Platform
+### 🛒 E-Commerce Platform (ShopHub)
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack-E--Commerce-success?style=for-the-badge&logo=shopify"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
@@ -106,7 +106,7 @@
 
 **Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Stripe API` `JWT` `Material-UI`
 
-[🔗 View Repository](https://github.com/abhishek0904m/ecommerce-platform)
+[🔗 View Repository](https://github.com/abhishek0904m/ecommerce-platform) &nbsp;|&nbsp; [🌐 Live Demo](https://shophub-frontend-fzd6.onrender.com)
 
 </div>
 
