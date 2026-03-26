@@ -84,7 +84,7 @@
 
 **Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Gemini API` `Groq API` `YouTube API`
 
-[🔗 View Repository](https://github.com/abhishek0904m/ai-course-builder)
+[🔗 View Repository](https://github.com/abhishek0904m/ai-course-builder) &nbsp;|&nbsp; [🌐 Live Demo](https://ai-course-builder-bxxs.onrender.com/)
 
 ---
 
