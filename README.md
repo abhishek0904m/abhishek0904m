@@ -69,20 +69,20 @@
 
 ### 🤖 AI Course Builder
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge&logo=openai"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/AI--Multi--Model-purple?style=for-the-badge&logo=google-gemini"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/Education-Tech-orange?style=for-the-badge"/>
 </p>
 
-**📚 Intelligent Course Creation Platform**
-- **AI-powered content generation** for educational courses
-- **Interactive course builder** with drag-and-drop interface
-- **Automated curriculum planning** based on learning objectives
-- **Progress tracking** and analytics dashboard
-- **Multi-format content support** (video, text, quizzes, assignments)
-- **Responsive design** for all devices
+**📚 Multi-Model Intelligent Course Creation Platform**
+- **Synthesized Content Generation** using Gemini 1.5 Pro & Llama 3.1 (Groq)
+- **Automatic Learning Roadmaps** based on user goals and time availability
+- **AI-Generated Quizzes** with instant feedback and scoring
+- **Curated YouTube Integration** for each learning concept
+- **Progress Tracking** with visual roadmaps and completion stats
+- **Modern Dark UI** with amber accents built for focus
 
-**Tech Stack:** `TypeScript` `React` `Node.js` `OpenAI API` `MongoDB` `Express.js`
+**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Gemini API` `Groq API` `YouTube API`
 
 [🔗 View Repository](https://github.com/abhishek0904m/ai-course-builder)
 
@@ -155,7 +155,7 @@
 ### 🤖 AI/ML & Data Science
 - **Machine Learning** with Python
 - **Natural Language Processing** (NLP)
-- **AI API Integration** (OpenAI, Google AI)
+- **AI API Integration** (Gemini, Groq, OpenAI)
 - **Data Analysis** and visualization
 
 ### 🛡️ Cybersecurity
@@ -183,7 +183,7 @@
 
 🛡️ **Cybersecurity Focus** - Specialized in Android app security analysis
 
-🤖 **AI Innovation** - Built intelligent course creation platform
+🤖 **AI Innovation** - Built multi-model intelligent course creation platform
 
 💼 **Full-Stack Expertise** - End-to-end application development
 
