@@ -106,7 +106,7 @@
 
 **Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Stripe API` `JWT` `Material-UI`
 
-[🔗 View Repository](https://github.com/abhishek0904m/ecommerce-platform) &nbsp;|&nbsp; [🌐 Live Demo](https://shophub-frontend-fzd6.onrender.com)
+[🔗 View Repository](https://github.com/abhishek0904m/ShopHub-E-com-) &nbsp;|&nbsp; [🌐 Live Demo](https://shophub-frontend-fzd6.onrender.com)
 
 </div>
 
