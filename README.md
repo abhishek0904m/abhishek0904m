@@ -1,234 +1,112 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek+M!;" />
-</h1>
-
-<h3 align="center">🚀 Full Stack Developer | 🛡️ Cybersecurity Enthusiast | 🤖 AI/ML Developer</h3>
-
-<br/>
-
 <div align="center">
- 
- 🔭 I'm currently working on **AI-powered applications** and **Android security tools**
- 
- 🌱 I'm currently learning **Advanced Machine Learning** and **Cybersecurity**
 
- 💬 Ask me about **Android Development, AI/ML, Web Development, or Cybersecurity**
+# Abhishek M
 
- ⚡ Fun fact: **I love building apps that make technology safer and more accessible!**
+### Full-Stack MERN Developer · Android Security Enthusiast
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:abhishekm0904@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/abhishek-m-b60803345/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/abhishek0904m" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
+Building web applications that stay **fast**, **secure**, and easy to use.
+
+[![Email](https://img.shields.io/badge/Email-abhishekm0904%40gmail.com-241942?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekm0904@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekm-b60803345/)
+[![GitHub](https://img.shields.io/badge/GitHub-abhishek0904m-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishek0904m)
+
 </div>
-
-<hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,python,javascript,typescript,react,nodejs,html,css" />
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,firebase,mongodb,mysql,docker" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">🌟 Featured Projects 🌟</h2>
-
-<div align="center">
-
-### 🛡️ App Privacy Analyzer (Pepper) v2.0
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-Security-green?style=for-the-badge&logo=android"/>
-  <img src="https://img.shields.io/badge/Kotlin-100%25-blue?style=for-the-badge&logo=kotlin"/>
-  <img src="https://img.shields.io/badge/Domain-Cybersecurity-red?style=for-the-badge"/>
-</p>
-
-**🔍 Advanced Android Security Application**
-- **Offline static analysis** of Android apps and APK files
-- **Digital signature verification** with SHA-256 hash display
-- **Installation source detection** (Play Store, Amazon, Sideloaded)
-- **Smart permission analysis** with risk scoring
-- **Material Design 3** UI with modern purple theme
-- **Malicious signer detection** using signature database
-
-**Tech Stack:** `Kotlin` `Android SDK` `Material Design 3` `Coroutines` `Cryptography`
-
-[🔗 View Repository](https://github.com/abhishek0904m/AppPrivacyAnalyzer)
 
 ---
 
-### 🤖 AI Course Builder
-<p align="center">
-  <img src="https://img.shields.io/badge/AI--Multi--Model-purple?style=for-the-badge&logo=google-gemini"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Education-Tech-orange?style=for-the-badge"/>
-</p>
+## About me
 
-**📚 Multi-Model Intelligent Course Creation Platform**
-- **Synthesized Content Generation** using Gemini 1.5 Pro & Llama 3.1 (Groq)
-- **Automatic Learning Roadmaps** based on user goals and time availability
-- **AI-Generated Quizzes** with instant feedback and scoring
-- **Curated YouTube Integration** for each learning concept
-- **Progress Tracking** with visual roadmaps and completion stats
-- **Modern Dark UI** with amber accents built for focus
+I am an MCA graduate based in Bangalore, focused on full-stack development with the MERN stack. During my internship at Excerpt Technologies, I built REST APIs, implemented JWT authentication and role-based access control, and optimized database queries.
 
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Gemini API` `Groq API` `YouTube API`
+I also build Android security tools that analyze permissions, verify digital signatures, and identify application risks. I am currently looking for a fresher full-stack or MERN role in Bangalore.
 
-[🔗 View Repository](https://github.com/abhishek0904m/ai-course-builder) &nbsp;|&nbsp; [🌐 Live Demo](https://ai-course-builder-bxxs.onrender.com/)
+> **Current focus:** secure APIs, responsive interfaces, practical AI integrations, and maintainable database design.
+
+## Technical skills
+
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | React.js, JavaScript, HTML, CSS, responsive design |
+| **Backend** | Node.js, Express.js, REST APIs, JWT, RBAC |
+| **Databases** | MongoDB, MySQL |
+| **Languages** | Java, Python, C (basic) |
+| **Android & security** | Android SDK, static analysis, permission analysis, SHA-256, digital signature verification |
+| **Tools** | Git, GitHub, Docker, VS Code, LLM APIs |
+
+## Featured projects
+
+### 🟣 ShopHub — Multi-vendor e-commerce platform
+
+**MERN · JWT · RBAC · GROQ API**
+
+- Supports 100+ concurrent user sessions.
+- Includes 20+ secured REST endpoints and role-based access control.
+- Includes an AI customer-support chatbot powered by the GROQ API.
+
+[View my repositories →](https://github.com/abhishek0904m?tab=repositories)
+
+### 🟢 App Privacy Analyzer — Android security tool
+
+**Java · Android SDK · Cryptography**
+
+- Analyzes app permissions and risky behaviors.
+- Verifies digital signatures and displays SHA-256 hashes.
+- Uses risk scoring to help identify privacy and security concerns.
+
+[View AppPrivacyAnalyzer →](https://github.com/abhishek0904m/AppPrivacyAnalyzer)
+
+### 🟠 AI Course Builder — Automated course generation
+
+**React · Node.js · Express · MongoDB · LLM APIs**
+
+- Generates course modules, learning roadmaps, and quizzes.
+- Combines multiple AI and content APIs into one workflow.
+- Includes progress tracking and a practical learning-focused interface.
+
+[View project →](https://github.com/abhishek0904m/ai-course-builder) · [Live demo →](https://ai-course-builder-bxxs.onrender.com/)
+
+### 🔵 Blog Website — Full-stack blogging platform
+
+**PHP · MySQL · JavaScript**
+
+- Secure authentication and content management.
+- Optimized database queries for faster page loads.
+
+## Experience
+
+**MERN Full Stack Development Intern — Excerpt Technologies Pvt. Ltd.**
+Bangalore · February–May 2026
+
+- Engineered 20+ RESTful API endpoints.
+- Built ShopHub and optimized database queries for better performance.
+- Enforced JWT authentication and RBAC.
+
+**Hackathon Participant — IV Labs**
+Bangalore · April 2025
+
+- Delivered a working full-stack prototype in 24 hours with a four-member team.
+
+## Education & certifications
+
+| Education | Details |
+| --- | --- |
+| **MCA** | Acharya Institute of Technology, Bangalore · 83% |
+| **BCA** | Edurite College of Management Studies, Shimoga · GPA 7.61 |
+
+**Certifications:** Microsoft Azure AI Essentials · Docker Foundations · Ethical Hacking 101 · GenAI Powered Data Analytics Job Simulation
 
 ---
 
-### 🛒 E-Commerce Platform (ShopHub)
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-E--Commerce-success?style=for-the-badge&logo=shopify"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js"/>
-</p>
+<div align="center">
 
-**🛍️ Modern E-Commerce Solution**
-- **Complete shopping experience** with cart and checkout
-- **User authentication** and profile management
-- **Product catalog** with search and filtering
-- **Payment integration** with secure transactions
-- **Admin dashboard** for inventory and order management
-- **Responsive design** with modern UI/UX
-- **Real-time notifications** and order tracking
+### Let’s build something useful.
 
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Stripe API` `JWT` `Material-UI`
+Open to fresher full-stack and MERN opportunities in Bangalore.
 
-[🔗 View Repository](https://github.com/abhishek0904m/ShopHub-E-com-) &nbsp;|&nbsp; [🌐 Live Demo](https://shophub-frontend-fzd6.onrender.com)
+**[Email me](mailto:abhishekm0904@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/abhishekm-b60803345/)**
 
-</div>
-
-<hr/>
-
-<h2 align="center">📊 GitHub Stats 📊</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=abhishek0904m&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=abhishek0904m&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abhishek0904m&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
-<br/>
+![Profile views](https://komarev.com/ghpvc/?username=abhishek0904m&label=Profile%20views&color=5B4B8A&style=flat)
 
-<h3 align="center">📈 Contribution Activity 📈</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek0904m&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek0904m&theme=github_dark" width="100%"/>
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<h2 align="center">🎯 Skills & Expertise 🎯</h2>
-
-<div align="center">
-
-### 📱 Mobile Development
-- **Android Development** with Kotlin & Java
-- **Material Design** implementation
-- **Security-focused** app development
-- **Performance optimization** and testing
-
-### 🌐 Web Development
-- **Frontend:** React, TypeScript, HTML5, CSS3, JavaScript
-- **Backend:** Node.js, Express.js, RESTful APIs
-- **Database:** MongoDB, MySQL, Firebase
-- **Authentication:** JWT, OAuth, Firebase Auth
-
-### 🤖 AI/ML & Data Science
-- **Machine Learning** with Python
-- **Natural Language Processing** (NLP)
-- **AI API Integration** (Gemini, Groq, OpenAI)
-- **Data Analysis** and visualization
-
-### 🛡️ Cybersecurity
-- **Static malware analysis**
-- **Digital signature verification**
-- **Android security assessment**
-- **Cryptographic implementations**
-- **Security best practices**
-
-### 🛠️ Tools & Technologies
-- **Development:** Android Studio, VS Code, Git, Docker
-- **Cloud:** Firebase, AWS basics
-- **Design:** Figma, Material Design principles
-- **Testing:** Unit testing, Integration testing
-
-</div>
-
-<hr/>
-
-<h2 align="center">🏆 Achievements & Highlights 🏆</h2>
-
-<div align="center">
-
-🎓 **Academic Excellence** in Computer Science & Engineering
-
-🛡️ **Cybersecurity Focus** - Specialized in Android app security analysis
-
-🤖 **AI Innovation** - Built multi-model intelligent course creation platform
-
-💼 **Full-Stack Expertise** - End-to-end application development
-
-📱 **Mobile Security** - Advanced Android security tool development
-
-🌟 **Open Source Contributor** - Active in the developer community
-
-</div>
-
-<hr/>
-
-<h2 align="center">💡 What I'm Working On 💡</h2>
-
-<div align="center">
-
-🔬 **Advanced Malware Detection** - Enhancing AI-based threat analysis
-
-🎯 **Educational Technology** - Improving AI-powered learning platforms  
-
-🛡️ **Mobile Security Research** - Next-gen Android security tools
-
-🌐 **Full-Stack Innovation** - Modern web application architectures
-
-📊 **Data-Driven Solutions** - Analytics and insights platforms
-
-</div>
-
-<hr/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+connect+and+collaborate!;+Building+the+future,+one+app+at+a+time!">
-</h3>
-
-<br/>
-
-<div align="center">
-  <img src="https://github.com/abhishek0904m/abhishek0904m/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishek0904m&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-<div align="center">
-  💼 Open to collaborating on innovative projects in <strong>Android Security</strong>, <strong>AI/ML</strong>, and <strong>Full-Stack Development</strong>
 </div>
